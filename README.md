@@ -1,4 +1,4 @@
-## DeConn **(Developer Connection)**
+## **DeConn (Developer Connection)**
 
 2021.08.20 ~ 진행중
 
